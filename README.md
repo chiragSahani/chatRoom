@@ -43,8 +43,8 @@ Chat Room is a fully functional real-time chat application with an intuitive UI,
 ## 🎯 Getting Started
 ### 1️⃣ Clone the repository:
 ```sh
-git clone https://github.com/yourusername/chiragchat.git
-cd chiragchat
+git clone https://github.com/chiragSahani/chatRoom.git
+cd Chat Room
 ```
 
 ### 2️⃣ Install dependencies:
@@ -71,7 +71,7 @@ netlify deploy
 ```
 
 ## 🌍 Live Demo
-Check out the deployed application: [ChiragChat](https://chiragchat.netlify.app)
+Check out the deployed application: [Chat Room](https://chiragchat.netlify.app/)
 
 ## 🤝 Contributing
 Feel free to contribute by submitting a pull request! 🚀
